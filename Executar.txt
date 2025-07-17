@@ -1,0 +1,2 @@
+Para buildar -> gcc Exercicio_A.c -o hello.exe
+Para executar -> ./hello.exe
