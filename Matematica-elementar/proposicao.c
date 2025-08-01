@@ -53,3 +53,43 @@ int main() {
     
 
 }
+
+
+/*
+✍️ Exercício 1 – Complete com V ou F
+Considere:
+
+p: "2 é par" → V
+
+q: "3 é par" → F
+
+Calcule:
+
+a) ¬p = F
+b) p ∧ q = F
+c) p ∨ q = V
+d) p → q = F
+e) q → p = V
+f) p ↔ q = F
+
+*/
+
+
+/*
+✍️ Exercício 2 – Negações com Leis de De Morgan
+Negue logicamente as proposições abaixo (não use “não” literal, use símbolos):
+
+a) (p ∧ q) =  ¬(p ∧ q) ⇔ ¬p ∨ ¬q
+b) (p ∨ q) = ¬(p ∨ q) ⇔ ¬p ∧ ¬q
+c) ¬(p ∧ ¬q) =  p ∧ ¬q
+*/
+
+
+/*
+✍️ Exercício 3 – Equivalência lógica
+Reescreva as proposições usando equivalência lógica:
+
+a) p → q = ¬p ∨ q
+b) ¬(p ∧ q) = ¬p ∨ ¬q
+c) p ↔ q = (p → q) ∧ (q → p)
+*/
